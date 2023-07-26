@@ -1,4 +1,4 @@
-# Spring-ApiBhut
+# Backend Api
 - Sobre a aplicação-
 > Criei uma aplicação  ( API REST ) que contenha 3 endpointn, aonde consumimos 2 endpoints de uma api Externa: 
 > ApI que consumimos : http://api-test.bhut.com.br:3000.
