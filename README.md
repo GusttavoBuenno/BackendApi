@@ -15,7 +15,7 @@ data_hora e car_id;
 escrever nenhum código para chamar o serviço, a não ser uma
 definição de interface.
  
-• Assim ultilizamos a anotação  @FeignClient é a notação que torna o consumo do serviço
+• Assim a anotação  @FeignClient é a notação que torna o consumo do serviço
 extremamente simples.
 
 > Para Resgistrar nossos logs em um banco de dados Nosql Ultilizamos uma dependência chamada h2database , aonde ela cria uma banco em memória.
